@@ -17,7 +17,7 @@ This is an archived version of a blog post on Bayes factors. It is a personal re
 
 GitHub: https://github.com/djnavarro/bayes-factor-essay
 
-PsyArXiv: https://psyarxiv.com/
+PsyArXiv: https://psyarxiv.com/nujy6
 
 
 \bigskip
